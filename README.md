@@ -9,7 +9,7 @@ The script never clicks or reloads anything for you — it just reads the page i
 ## Requirements
 
 - **Node.js 20.6+** (uses `--env-file`)
-- **Multilogin X** account, with the desktop app/agent installed and running
+- **Multilogin X paid account** (the free plan has no API access, which the script needs), with the desktop app/agent installed and running
 - **Bright Data** account with a zone that has one IP per profile you plan to run
 
 ## Setup
